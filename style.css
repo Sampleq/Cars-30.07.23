@@ -81,6 +81,10 @@ body {
 
 /* ---- end of header ------- */
 
+.h-line {
+    height: 1px;
+    background: #E5E5E5;
+}
 
 /* ---- main------- */
 
@@ -276,12 +280,6 @@ body {
 /* ---- end of section booking------- */
 
 /* ---- Footer ------- */
-
-.footer-line {
-    height: 1px;
-    background: #E5E5E5;
-}
-
 
 .wrapper_footer {
     display: flex;
